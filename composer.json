@@ -43,6 +43,5 @@
         "test-ci": "vendor/bin/phpunit --coverage-clover build/coverage.xml",
         "gen-ssl": "tests/server/ssl/generate.sh"
     },
-    "prefer-stable": true,
-    "minimum-stability": "dev"
+    "prefer-stable": true
 }
