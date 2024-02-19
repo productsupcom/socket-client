@@ -1,5 +1,5 @@
 {
-    "name": "php-http/socket-client",
+    "name": "productsupcom/socket-client",
     "description": "Socket client for PHP-HTTP",
     "license": "MIT",
     "authors": [
